@@ -28,3 +28,5 @@ google-docs,
 google-gmail-oauth,
 google-home,
 google-spreadsheets
+
+DevPost: https://devpost.com/software/stock-talks
