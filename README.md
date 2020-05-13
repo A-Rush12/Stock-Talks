@@ -1,4 +1,4 @@
-# Stock-Talks
+# Stock-Talks : Hackathon 2020 Project
 Inspiration: 
 We were inspired when we were cooking chicken and wanted to check our Nvidia holdings after an earnings report. We then thought about how inaccessible stock following is, as it tends to require the user to read. Our project allows visually impaired users to gain insight into the world of finance and investing on their own.
 
