@@ -21,10 +21,10 @@ What's next for Stock Talks:
 Integration of a robo-advisor using Tensorflow and matplotlib to help novice investors generate their best returns.
 
 Built With: 
-assistant
-dialogflow
-flask
-google-docs
-google-gmail-oauth
-google-home
+Google Assistant,
+dialogflow,
+flask,
+google-docs,
+google-gmail-oauth,
+google-home,
 google-spreadsheets
